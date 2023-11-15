@@ -4,7 +4,7 @@ import { clsx } from "clsx";
 import image1 from "./frontt.jpeg";
 import image2 from "./amarachi.png";
 import image3 from "./two.jpeg";
-import image4 from "./last.jpg";
+import image4 from "./lastt.png";
 import image5 from "./back.jpeg";
 // import { react } from "@vitejs/plugin-react-swc";
 import styled from "styled-components";
